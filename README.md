@@ -1,27 +1,28 @@
-HEllo, I'm Bhumika Hunachyali
+## Hello Everyone!
+I'm Bhumika Hunachyali
 
 Currently pursuing B.Tech in AI&ML at SJBIT, Bengaluru.
 I'm 1st Year Engineering Student focused on building strong software engineering fundamentals and real-world technical skills.
 
 I’m currently exploring the intersection of software engineering, AI, and problem solving through hands-on projects and consistent learning.
 
-
+---
 
 ## About Me
 
-* Pursuing Artificial Intelligence & Machine Learning at SJBIT
-* Learning Python, DSA, Git, and development fundamentals
-* Interested in software engineering, AI systems, and scalable technology
-* Focused on building discipline, technical depth, and strong problem-solving ability
+* My immense interest in mathematics, logic, and intelligent systems sparked my curiosity for AI & ML.
+* Learning Python, C, Frontend, DSA, Git, and development fundamentals.
+* Interested in software engineering, AI systems, and scalable technology.
+* Focused on building discipline, technical depth, and strong problem-solving ability.
 
 ---
 
 ## Long-Term Goals
 
-* Become a skilled Software Engineer and AI Engineer
-* Build impactful and technically strong products
-* Work on meaningful large-scale systems and real-world problem solving
-* Prepare for top tech opportunities and higher studies abroad in the future
+* To grow into an engineer who combines strong software development skills with AI-driven innovation.
+* Build impactful and technically strong products.
+* Work on meaningful large-scale systems and real-world problem solving.
+* Prepare for top tech opportunities and higher studies abroad in the future.
 
 ---
 
@@ -33,6 +34,12 @@ I’m currently exploring the intersection of software engineering, AI, and prob
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge)
+![Web Development](https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge)
 
 ---
 
@@ -42,9 +49,11 @@ I’m currently exploring the intersection of software engineering, AI, and prob
 
 A smart redistribution platform focused on connecting surplus food and reusable resources with NGOs and recycling vendors through efficient coordination and accessibility.
 
-### AI for Bharat
+### Error Explainer VS code extension
 
-An AI-powered assistant concept aimed at simplifying access to government schemes, scholarships, and essential information for Indian citizens.
+A personalised extension which explains complex error in the simplest way possible.
+
+
 
 ---
 
@@ -61,6 +70,7 @@ An AI-powered assistant concept aimed at simplifying access to government scheme
 ## Skills
 
 * Python Programming
+* C programming
 * Problem Solving
 * Git & GitHub
 * Basic Frontend Development
@@ -71,8 +81,8 @@ An AI-powered assistant concept aimed at simplifying access to government scheme
 
 ## Connect
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* LinkedIn: Add later
+* GitHub: https://github.com/BhumikaHunachyali
+* LinkedIn: https://www.linkedin.com/in/bhumika-hunachyali-606746347/
 
 
 <!--
